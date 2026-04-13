@@ -1,0 +1,1729 @@
+﻿Year,Month,Sector,Quantity,UNIT
+2002,January,Residential,500.694653,GWh
+2002,February,Residential,567.200572,GWh
+2002,March,Residential,663.698473,GWh
+2002,April,Residential,728.534919,GWh
+2002,May,Residential,688.611014,GWh
+2002,June,Residential,682.82708,GWh
+2002,July,Residential,675.414221,GWh
+2002,August,Residential,641.095767,GWh
+2002,September,Residential,628.782115,GWh
+2002,October,Residential,624.28292,GWh
+2002,November,Residential,609.310029,GWh
+2002,December,Residential,616.431327,GWh
+2002,January,Business,913.4964898,GWh
+2002,February,Business,935.8760796,GWh
+2002,March,Business,1071.748425,GWh
+2002,April,Business,1072.9143,GWh
+2002,May,Business,1085.495455,GWh
+2002,June,Business,1084.523766,GWh
+2002,July,Business,1093.382582,GWh
+2002,August,Business,1084.041254,GWh
+2002,September,Business,1058.055285,GWh
+2002,October,Business,1079.326973,GWh
+2002,November,Business,1041.898106,GWh
+2002,December,Business,1045.451034,GWh
+2002,January,Industrial,1030.521367,GWh
+2002,February,Industrial,989.7832041,GWh
+2002,March,Industrial,1172.280132,GWh
+2002,April,Industrial,1034.929633,GWh
+2002,May,Industrial,1176.029969,GWh
+2002,June,Industrial,1160.256395,GWh
+2002,July,Industrial,1163.672058,GWh
+2002,August,Industrial,1220.465278,GWh
+2002,September,Industrial,1145.252869,GWh
+2002,October,Industrial,1148.739618,GWh
+2002,November,Industrial,1151.752371,GWh
+2002,December,Industrial,1095.042967,GWh
+2002,January,Government & Non-Profit,79.516746,GWh
+2002,February,Government & Non-Profit,90.85985,GWh
+2002,March,Government & Non-Profit,103.14865,GWh
+2002,April,Government & Non-Profit,93.285444,GWh
+2002,May,Government & Non-Profit,102.673696,GWh
+2002,June,Government & Non-Profit,111.732493,GWh
+2002,July,Government & Non-Profit,110.937796,GWh
+2002,August,Government & Non-Profit,107.098545,GWh
+2002,September,Government & Non-Profit,100.470395,GWh
+2002,October,Government & Non-Profit,101.821501,GWh
+2002,November,Government & Non-Profit,113.036664,GWh
+2002,December,Government & Non-Profit,99.119168,GWh
+2002,January,Other,55.59530882,GWh
+2002,February,Other,59.69924002,GWh
+2002,March,Other,60.93546734,GWh
+2002,April,Other,87.67317133,GWh
+2002,May,Other,54.75903164,GWh
+2002,June,Other,58.35393615,GWh
+2002,July,Other,84.8499901,GWh
+2002,August,Other,0,GWh
+2002,September,Other,68.8369008,GWh
+2002,October,Other,60.874121,GWh
+2002,November,Other,33.71419831,GWh
+2002,December,Other,79.59692772,GWh
+2002,January,Free of Charge,13.345812,GWh
+2002,February,Free of Charge,12.450075,GWh
+2002,March,Free of Charge,13.453942,GWh
+2002,April,Free of Charge,22.099109,GWh
+2002,May,Free of Charge,15.008403,GWh
+2002,June,Free of Charge,14.576107,GWh
+2002,July,Free of Charge,15.087218,GWh
+2002,August,Free of Charge,15.11265,GWh
+2002,September,Free of Charge,14.720853,GWh
+2002,October,Free of Charge,15.266179,GWh
+2002,November,Free of Charge,14.779545,GWh
+2002,December,Free of Charge,15.293725,GWh
+2003,January,Residential,551.147735,GWh
+2003,February,Residential,585.226067,GWh
+2003,March,Residential,696.349267,GWh
+2003,April,Residential,764.013085,GWh
+2003,May,Residential,759.6336,GWh
+2003,June,Residential,704.464679,GWh
+2003,July,Residential,671.701076,GWh
+2003,August,Residential,699.547382,GWh
+2003,September,Residential,653.006282,GWh
+2003,October,Residential,669.395085,GWh
+2003,November,Residential,677.967996,GWh
+2003,December,Residential,566.32203,GWh
+2003,January,Business,998.8613372,GWh
+2003,February,Business,1064.365123,GWh
+2003,March,Business,1144.830169,GWh
+2003,April,Business,1130.791352,GWh
+2003,May,Business,1165.431483,GWh
+2003,June,Business,1142.036493,GWh
+2003,July,Business,1152.359179,GWh
+2003,August,Business,1158.747291,GWh
+2003,September,Business,1106.301496,GWh
+2003,October,Business,1129.617749,GWh
+2003,November,Business,1138.399192,GWh
+2003,December,Business,1021.91527,GWh
+2003,January,Industrial,1091.932822,GWh
+2003,February,Industrial,1059.916327,GWh
+2003,March,Industrial,1244.66464,GWh
+2003,April,Industrial,1079.601267,GWh
+2003,May,Industrial,1213.490935,GWh
+2003,June,Industrial,1193.552746,GWh
+2003,July,Industrial,1189.564125,GWh
+2003,August,Industrial,1198.337394,GWh
+2003,September,Industrial,1174.22883,GWh
+2003,October,Industrial,1213.164081,GWh
+2003,November,Industrial,1191.865725,GWh
+2003,December,Industrial,1118.067088,GWh
+2003,January,Government & Non-Profit,78.463209,GWh
+2003,February,Government & Non-Profit,93.738917,GWh
+2003,March,Government & Non-Profit,100.02018,GWh
+2003,April,Government & Non-Profit,92.835469,GWh
+2003,May,Government & Non-Profit,100.339012,GWh
+2003,June,Government & Non-Profit,105.846026,GWh
+2003,July,Government & Non-Profit,120.860552,GWh
+2003,August,Government & Non-Profit,111.562671,GWh
+2003,September,Government & Non-Profit,98.407235,GWh
+2003,October,Government & Non-Profit,98.425686,GWh
+2003,November,Government & Non-Profit,125.87172,GWh
+2003,December,Government & Non-Profit,50.711554,GWh
+2003,January,Other,52.75099388,GWh
+2003,February,Other,9.45580178,GWh
+2003,March,Other,71.37269868,GWh
+2003,April,Other,52.22583024,GWh
+2003,May,Other,76.34047872,GWh
+2003,June,Other,84.60241543,GWh
+2003,July,Other,72.47954215,GWh
+2003,August,Other,103.2759693,GWh
+2003,September,Other,11.45046082,GWh
+2003,October,Other,77.55805127,GWh
+2003,November,Other,68.94625269,GWh
+2003,December,Other,70.43892769,GWh
+2003,January,Free of Charge,15.321192,GWh
+2003,February,Free of Charge,13.861959,GWh
+2003,March,Free of Charge,15.372818,GWh
+2003,April,Free of Charge,14.886755,GWh
+2003,May,Free of Charge,15.390365,GWh
+2003,June,Free of Charge,15.419921,GWh
+2003,July,Free of Charge,14.930688,GWh
+2003,August,Free of Charge,15.443338,GWh
+2003,September,Free of Charge,14.982598,GWh
+2003,October,Free of Charge,15.553889,GWh
+2003,November,Free of Charge,15.059056,GWh
+2003,December,Free of Charge,15.616246,GWh
+2004,January,Residential,567.381494,GWh
+2004,February,Residential,574.735433,GWh
+2004,March,Residential,729.725752,GWh
+2004,April,Residential,830.179597,GWh
+2004,May,Residential,786.819711,GWh
+2004,June,Residential,706.175562,GWh
+2004,July,Residential,726.478467,GWh
+2004,August,Residential,709.001511,GWh
+2004,September,Residential,707.194992,GWh
+2004,October,Residential,723.174219,GWh
+2004,November,Residential,720.96172,GWh
+2004,December,Residential,552.79756,GWh
+2004,January,Business,1037.541445,GWh
+2004,February,Business,1036.426162,GWh
+2004,March,Business,1205.059627,GWh
+2004,April,Business,1215.116305,GWh
+2004,May,Business,1227.371973,GWh
+2004,June,Business,1180.679923,GWh
+2004,July,Business,1235.603505,GWh
+2004,August,Business,1197.784335,GWh
+2004,September,Business,1221.536742,GWh
+2004,October,Business,1196.232095,GWh
+2004,November,Business,1193.854769,GWh
+2004,December,Business,1065.789393,GWh
+2004,January,Industrial,1085.609775,GWh
+2004,February,Industrial,1161.328766,GWh
+2004,March,Industrial,1281.104971,GWh
+2004,April,Industrial,1117.534975,GWh
+2004,May,Industrial,1269.11881,GWh
+2004,June,Industrial,1231.791584,GWh
+2004,July,Industrial,1269.82534,GWh
+2004,August,Industrial,1209.789417,GWh
+2004,September,Industrial,1232.108739,GWh
+2004,October,Industrial,1243.879926,GWh
+2004,November,Industrial,1222.515184,GWh
+2004,December,Industrial,1140.0905,GWh
+2004,January,Government & Non-Profit,90.994252,GWh
+2004,February,Government & Non-Profit,90.641631,GWh
+2004,March,Government & Non-Profit,101.611169,GWh
+2004,April,Government & Non-Profit,101.635444,GWh
+2004,May,Government & Non-Profit,102.56711,GWh
+2004,June,Government & Non-Profit,114.524238,GWh
+2004,July,Government & Non-Profit,102.94823,GWh
+2004,August,Government & Non-Profit,105.015297,GWh
+2004,September,Government & Non-Profit,107.022638,GWh
+2004,October,Government & Non-Profit,96.367221,GWh
+2004,November,Government & Non-Profit,100.967466,GWh
+2004,December,Government & Non-Profit,85.712482,GWh
+2004,January,Other,69.5446352,GWh
+2004,February,Other,63.42317891,GWh
+2004,March,Other,78.47468424,GWh
+2004,April,Other,93.90931681,GWh
+2004,May,Other,86.6699342,GWh
+2004,June,Other,99.38039266,GWh
+2004,July,Other,71.98960878,GWh
+2004,August,Other,108.8078692,GWh
+2004,September,Other,16.41723144,GWh
+2004,October,Other,99.46760573,GWh
+2004,November,Other,57.7673552,GWh
+2004,December,Other,73.10925105,GWh
+2004,January,Free of Charge,15.634414,GWh
+2004,February,Free of Charge,14.63276,GWh
+2004,March,Free of Charge,15.802063,GWh
+2004,April,Free of Charge,15.298473,GWh
+2004,May,Free of Charge,15.883278,GWh
+2004,June,Free of Charge,15.445122,GWh
+2004,July,Free of Charge,15.985324,GWh
+2004,August,Free of Charge,16.014321,GWh
+2004,September,Free of Charge,15.55078,GWh
+2004,October,Free of Charge,16.107288,GWh
+2004,November,Free of Charge,15.605321,GWh
+2004,December,Free of Charge,16.141042,GWh
+2005,January,Residential,570.939104,GWh
+2005,February,Residential,670.527457,GWh
+2005,March,Residential,735.679942,GWh
+2005,April,Residential,830.588635,GWh
+2005,May,Residential,860.163681,GWh
+2005,June,Residential,789.120728,GWh
+2005,July,Residential,737.311082,GWh
+2005,August,Residential,729.34792,GWh
+2005,September,Residential,732.084731,GWh
+2005,October,Residential,719.502998,GWh
+2005,November,Residential,675.220181,GWh
+2005,December,Residential,586.886611,GWh
+2005,January,Business,1072.252424,GWh
+2005,February,Business,1131.778578,GWh
+2005,March,Business,1241.356939,GWh
+2005,April,Business,1251.528084,GWh
+2005,May,Business,1312.123981,GWh
+2005,June,Business,1284.988081,GWh
+2005,July,Business,1232.754274,GWh
+2005,August,Business,1242.319373,GWh
+2005,September,Business,1225.077139,GWh
+2005,October,Business,1213.390194,GWh
+2005,November,Business,1186.091054,GWh
+2005,December,Business,1101.42672,GWh
+2005,January,Industrial,1143.166223,GWh
+2005,February,Industrial,1108.039582,GWh
+2005,March,Industrial,1310.314602,GWh
+2005,April,Industrial,1128.640291,GWh
+2005,May,Industrial,1283.749391,GWh
+2005,June,Industrial,1263.48502,GWh
+2005,July,Industrial,1241.174676,GWh
+2005,August,Industrial,1235.672658,GWh
+2005,September,Industrial,1242.724426,GWh
+2005,October,Industrial,1248.226339,GWh
+2005,November,Industrial,1221.015257,GWh
+2005,December,Industrial,1142.693558,GWh
+2005,January,Government & Non-Profit,83.542027,GWh
+2005,February,Government & Non-Profit,94.191221,GWh
+2005,March,Government & Non-Profit,100.353852,GWh
+2005,April,Government & Non-Profit,88.808439,GWh
+2005,May,Government & Non-Profit,105.903784,GWh
+2005,June,Government & Non-Profit,109.295107,GWh
+2005,July,Government & Non-Profit,99.575003,GWh
+2005,August,Government & Non-Profit,103.623639,GWh
+2005,September,Government & Non-Profit,102.949954,GWh
+2005,October,Government & Non-Profit,90.116611,GWh
+2005,November,Government & Non-Profit,93.240912,GWh
+2005,December,Government & Non-Profit,80.106641,GWh
+2005,January,Other,73.98260222,GWh
+2005,February,Other,78.62882078,GWh
+2005,March,Other,85.06819301,GWh
+2005,April,Other,80.64255595,GWh
+2005,May,Other,95.15250235,GWh
+2005,June,Other,107.7161053,GWh
+2005,July,Other,72.3493673,GWh
+2005,August,Other,86.71199603,GWh
+2005,September,Other,91.9583736,GWh
+2005,October,Other,94.25368257,GWh
+2005,November,Other,89.72181653,GWh
+2005,December,Other,96.60510214,GWh
+2005,January,Free of Charge,16.145164,GWh
+2005,February,Free of Charge,14.607152,GWh
+2005,March,Free of Charge,16.258214,GWh
+2005,April,Free of Charge,15.743991,GWh
+2005,May,Free of Charge,16.319878,GWh
+2005,June,Free of Charge,15.803061,GWh
+2005,July,Free of Charge,16.369291,GWh
+2005,August,Free of Charge,16.441987,GWh
+2005,September,Free of Charge,15.96226,GWh
+2005,October,Free of Charge,16.937242,GWh
+2005,November,Free of Charge,16.444365,GWh
+2005,December,Free of Charge,17.067293,GWh
+2006,January,Residential,611.728862,GWh
+2006,February,Residential,684.671457,GWh
+2006,March,Residential,818.884428,GWh
+2006,April,Residential,834.281423,GWh
+2006,May,Residential,811.527827,GWh
+2006,June,Residential,788.958197,GWh
+2006,July,Residential,766.33786,GWh
+2006,August,Residential,766.848579,GWh
+2006,September,Residential,772.812514,GWh
+2006,October,Residential,745.373912,GWh
+2006,November,Residential,781.766201,GWh
+2006,December,Residential,695.964987,GWh
+2006,January,Business,1147.298427,GWh
+2006,February,Business,1157.577532,GWh
+2006,March,Business,1353.669872,GWh
+2006,April,Business,1250.963465,GWh
+2006,May,Business,1310.71556,GWh
+2006,June,Business,1278.996504,GWh
+2006,July,Business,1300.483289,GWh
+2006,August,Business,1299.940603,GWh
+2006,September,Business,1265.826243,GWh
+2006,October,Business,1262.679499,GWh
+2006,November,Business,1282.372791,GWh
+2006,December,Business,1178.915141,GWh
+2006,January,Industrial,1128.238438,GWh
+2006,February,Industrial,1135.298459,GWh
+2006,March,Industrial,1328.691282,GWh
+2006,April,Industrial,1125.310497,GWh
+2006,May,Industrial,1286.387997,GWh
+2006,June,Industrial,1259.778949,GWh
+2006,July,Industrial,1263.755301,GWh
+2006,August,Industrial,1253.522147,GWh
+2006,September,Industrial,1233.427219,GWh
+2006,October,Industrial,1233.903472,GWh
+2006,November,Industrial,1244.98891,GWh
+2006,December,Industrial,1131.387793,GWh
+2006,January,Government & Non-Profit,81.799782,GWh
+2006,February,Government & Non-Profit,88.20705,GWh
+2006,March,Government & Non-Profit,104.396252,GWh
+2006,April,Government & Non-Profit,85.171276,GWh
+2006,May,Government & Non-Profit,94.368701,GWh
+2006,June,Government & Non-Profit,105.909834,GWh
+2006,July,Government & Non-Profit,106.359482,GWh
+2006,August,Government & Non-Profit,99.914925,GWh
+2006,September,Government & Non-Profit,105.572127,GWh
+2006,October,Government & Non-Profit,110.284187,GWh
+2006,November,Government & Non-Profit,104.094047,GWh
+2006,December,Government & Non-Profit,89.4054,GWh
+2006,January,Other,74.51358735,GWh
+2006,February,Other,85.58546137,GWh
+2006,March,Other,98.26780633,GWh
+2006,April,Other,96.13719007,GWh
+2006,May,Other,113.9409927,GWh
+2006,June,Other,121.7500573,GWh
+2006,July,Other,113.0460948,GWh
+2006,August,Other,119.5265773,GWh
+2006,September,Other,120.5167774,GWh
+2006,October,Other,127.1810067,GWh
+2006,November,Other,120.7793185,GWh
+2006,December,Other,114.0887545,GWh
+2006,January,Free of Charge,17.166779,GWh
+2006,February,Free of Charge,15.695905,GWh
+2006,March,Free of Charge,17.423148,GWh
+2006,April,Free of Charge,16.951389,GWh
+2006,May,Free of Charge,17.545974,GWh
+2006,June,Free of Charge,17.029078,GWh
+2006,July,Free of Charge,17.635,GWh
+2006,August,Free of Charge,17.871018,GWh
+2006,September,Free of Charge,17.373549,GWh
+2006,October,Free of Charge,18.09599,GWh
+2006,November,Free of Charge,17.656989,GWh
+2006,December,Free of Charge,17.735726,GWh
+2007,January,Residential,604.398196,GWh
+2007,February,Residential,674.370451,GWh
+2007,March,Residential,852.072377,GWh
+2007,April,Residential,859.271478,GWh
+2007,May,Residential,830.264154,GWh
+2007,June,Residential,873.034404,GWh
+2007,July,Residential,782.467278,GWh
+2007,August,Residential,800.724325,GWh
+2007,September,Residential,811.443557,GWh
+2007,October,Residential,766.534262,GWh
+2007,November,Residential,691.963594,GWh
+2007,December,Residential,683.889813,GWh
+2007,January,Business,1140.348224,GWh
+2007,February,Business,1225.913455,GWh
+2007,March,Business,1359.026905,GWh
+2007,April,Business,1299.093862,GWh
+2007,May,Business,1359.020807,GWh
+2007,June,Business,1384.115471,GWh
+2007,July,Business,1330.251257,GWh
+2007,August,Business,1340.126137,GWh
+2007,September,Business,1328.343008,GWh
+2007,October,Business,1309.213046,GWh
+2007,November,Business,1225.362106,GWh
+2007,December,Business,1235.153778,GWh
+2007,January,Industrial,1147.694969,GWh
+2007,February,Industrial,1333.696224,GWh
+2007,March,Industrial,1307.415755,GWh
+2007,April,Industrial,1116.079129,GWh
+2007,May,Industrial,1268.272127,GWh
+2007,June,Industrial,1259.825264,GWh
+2007,July,Industrial,1236.964418,GWh
+2007,August,Industrial,1229.99772,GWh
+2007,September,Industrial,1239.682222,GWh
+2007,October,Industrial,1240.281271,GWh
+2007,November,Industrial,1211.060261,GWh
+2007,December,Industrial,1147.993652,GWh
+2007,January,Government & Non-Profit,89.217437,GWh
+2007,February,Government & Non-Profit,90.906282,GWh
+2007,March,Government & Non-Profit,104.905426,GWh
+2007,April,Government & Non-Profit,91.478586,GWh
+2007,May,Government & Non-Profit,102.924487,GWh
+2007,June,Government & Non-Profit,117.916455,GWh
+2007,July,Government & Non-Profit,110.545198,GWh
+2007,August,Government & Non-Profit,108.520195,GWh
+2007,September,Government & Non-Profit,111.358377,GWh
+2007,October,Government & Non-Profit,96.778499,GWh
+2007,November,Government & Non-Profit,96.989759,GWh
+2007,December,Government & Non-Profit,93.171117,GWh
+2007,January,Other,114.4823355,GWh
+2007,February,Other,0,GWh
+2007,March,Other,141.3680702,GWh
+2007,April,Other,139.8202474,GWh
+2007,May,Other,97.00957489,GWh
+2007,June,Other,118.1505423,GWh
+2007,July,Other,111.5830065,GWh
+2007,August,Other,131.586385,GWh
+2007,September,Other,105.9427179,GWh
+2007,October,Other,119.9350751,GWh
+2007,November,Other,102.9262027,GWh
+2007,December,Other,113.1280161,GWh
+2007,January,Free of Charge,18.416876,GWh
+2007,February,Free of Charge,16.692271,GWh
+2007,March,Free of Charge,18.585471,GWh
+2007,April,Free of Charge,18.111723,GWh
+2007,May,Free of Charge,18.744631,GWh
+2007,June,Free of Charge,18.233162,GWh
+2007,July,Free of Charge,18.962468,GWh
+2007,August,Free of Charge,19.105407,GWh
+2007,September,Free of Charge,18.591412,GWh
+2007,October,Free of Charge,19.267008,GWh
+2007,November,Free of Charge,18.731305,GWh
+2007,December,Free of Charge,19.441805,GWh
+2008,January,Residential,707.482042,GWh
+2008,February,Residential,715.968118,GWh
+2008,March,Residential,805.007656,GWh
+2008,April,Residential,900.304509,GWh
+2008,May,Residential,845.239449,GWh
+2008,June,Residential,815.89604,GWh
+2008,July,Residential,810.090394,GWh
+2008,August,Residential,829.347295,GWh
+2008,September,Residential,807.658244,GWh
+2008,October,Residential,817.12327,GWh
+2008,November,Residential,715.171791,GWh
+2008,December,Residential,612.129474,GWh
+2008,January,Business,1256.111814,GWh
+2008,February,Business,1222.086766,GWh
+2008,March,Business,1363.515828,GWh
+2008,April,Business,1340.114819,GWh
+2008,May,Business,1366.519568,GWh
+2008,June,Business,1360.294637,GWh
+2008,July,Business,1346.421627,GWh
+2008,August,Business,1383.964937,GWh
+2008,September,Business,1334.376111,GWh
+2008,October,Business,1368.560644,GWh
+2008,November,Business,1245.36807,GWh
+2008,December,Business,1149.67623,GWh
+2008,January,Industrial,1174.608408,GWh
+2008,February,Industrial,1158.310601,GWh
+2008,March,Industrial,1310.604668,GWh
+2008,April,Industrial,1127.487682,GWh
+2008,May,Industrial,1275.744883,GWh
+2008,June,Industrial,1263.545725,GWh
+2008,July,Industrial,1259.554091,GWh
+2008,August,Industrial,1219.027764,GWh
+2008,September,Industrial,1182.654261,GWh
+2008,October,Industrial,1180.994339,GWh
+2008,November,Industrial,1087.619818,GWh
+2008,December,Industrial,948.9693301,GWh
+2008,January,Government & Non-Profit,94.512655,GWh
+2008,February,Government & Non-Profit,94.582662,GWh
+2008,March,Government & Non-Profit,102.677884,GWh
+2008,April,Government & Non-Profit,93.810638,GWh
+2008,May,Government & Non-Profit,105.438282,GWh
+2008,June,Government & Non-Profit,116.716092,GWh
+2008,July,Government & Non-Profit,112.960089,GWh
+2008,August,Government & Non-Profit,119.926266,GWh
+2008,September,Government & Non-Profit,110.278811,GWh
+2008,October,Government & Non-Profit,113.439476,GWh
+2008,November,Government & Non-Profit,102.170757,GWh
+2008,December,Government & Non-Profit,84.269459,GWh
+2008,January,Other,127.8610916,GWh
+2008,February,Other,111.9438115,GWh
+2008,March,Other,110.568151,GWh
+2008,April,Other,125.1575161,GWh
+2008,May,Other,137.3739315,GWh
+2008,June,Other,105.8323274,GWh
+2008,July,Other,121.1498582,GWh
+2008,August,Other,167.7202353,GWh
+2008,September,Other,99.6796555,GWh
+2008,October,Other,136.486722,GWh
+2008,November,Other,89.45019918,GWh
+2008,December,Other,110.5556927,GWh
+2008,January,Free of Charge,19.487691,GWh
+2008,February,Free of Charge,18.289164,GWh
+2008,March,Free of Charge,19.643963,GWh
+2008,April,Free of Charge,19.064076,GWh
+2008,May,Free of Charge,19.728069,GWh
+2008,June,Free of Charge,19.125171,GWh
+2008,July,Free of Charge,19.811755,GWh
+2008,August,Free of Charge,19.85654,GWh
+2008,September,Free of Charge,19.282587,GWh
+2008,October,Free of Charge,20.010153,GWh
+2008,November,Free of Charge,19.414144,GWh
+2008,December,Free of Charge,20.087102,GWh
+2009,January,Residential,595.560086,GWh
+2009,February,Residential,759.953398,GWh
+2009,March,Residential,877.056887,GWh
+2009,April,Residential,920.313455,GWh
+2009,May,Residential,878.818423,GWh
+2009,June,Residential,849.776665,GWh
+2009,July,Residential,834.352566,GWh
+2009,August,Residential,877.828452,GWh
+2009,September,Residential,866.658313,GWh
+2009,October,Residential,812.690047,GWh
+2009,November,Residential,784.089677,GWh
+2009,December,Residential,722.162881,GWh
+2009,January,Business,1122.446864,GWh
+2009,February,Business,1230.141497,GWh
+2009,March,Business,1406.568252,GWh
+2009,April,Business,1310.442973,GWh
+2009,May,Business,1350.554115,GWh
+2009,June,Business,1350.136074,GWh
+2009,July,Business,1343.205721,GWh
+2009,August,Business,1387.437066,GWh
+2009,September,Business,1353.421159,GWh
+2009,October,Business,1340.923519,GWh
+2009,November,Business,1268.748088,GWh
+2009,December,Business,1277.588688,GWh
+2009,January,Industrial,903.7203187,GWh
+2009,February,Industrial,980.4641411,GWh
+2009,March,Industrial,1103.028724,GWh
+2009,April,Industrial,947.0964157,GWh
+2009,May,Industrial,1111.262466,GWh
+2009,June,Industrial,1121.080181,GWh
+2009,July,Industrial,1142.357646,GWh
+2009,August,Industrial,1142.321852,GWh
+2009,September,Industrial,1144.950968,GWh
+2009,October,Industrial,1184.829119,GWh
+2009,November,Industrial,1126.475244,GWh
+2009,December,Industrial,1088.196094,GWh
+2009,January,Government & Non-Profit,81.933304,GWh
+2009,February,Government & Non-Profit,98.38156,GWh
+2009,March,Government & Non-Profit,111.575837,GWh
+2009,April,Government & Non-Profit,94.501045,GWh
+2009,May,Government & Non-Profit,109.116961,GWh
+2009,June,Government & Non-Profit,116.474417,GWh
+2009,July,Government & Non-Profit,115.764498,GWh
+2009,August,Government & Non-Profit,117.80581,GWh
+2009,September,Government & Non-Profit,116.932316,GWh
+2009,October,Government & Non-Profit,120.313398,GWh
+2009,November,Government & Non-Profit,106.60704,GWh
+2009,December,Government & Non-Profit,98.845439,GWh
+2009,January,Other,104.9532173,GWh
+2009,February,Other,118.9256172,GWh
+2009,March,Other,133.0767123,GWh
+2009,April,Other,132.8762925,GWh
+2009,May,Other,141.2932898,GWh
+2009,June,Other,138.4013881,GWh
+2009,July,Other,157.6286137,GWh
+2009,August,Other,166.7686094,GWh
+2009,September,Other,127.107593,GWh
+2009,October,Other,151.3744686,GWh
+2009,November,Other,152.7241532,GWh
+2009,December,Other,131.2966239,GWh
+2009,January,Free of Charge,20.505584,GWh
+2009,February,Free of Charge,18.90703,GWh
+2009,March,Free of Charge,21.368883,GWh
+2009,April,Free of Charge,21.814068,GWh
+2009,May,Free of Charge,22.268528,GWh
+2009,June,Free of Charge,21.99915,GWh
+2009,July,Free of Charge,23.206048,GWh
+2009,August,Free of Charge,23.689507,GWh
+2009,September,Free of Charge,23.402941,GWh
+2009,October,Free of Charge,24.686852,GWh
+2009,November,Free of Charge,24.388221,GWh
+2009,December,Free of Charge,25.726186,GWh
+2010,January,Residential,776.315912,GWh
+2010,February,Residential,836.162101,GWh
+2010,March,Residential,925.555673,GWh
+2010,April,Residential,1026.501779,GWh
+2010,May,Residential,1082.184622,GWh
+2010,June,Residential,1003.404708,GWh
+2010,July,Residential,930.905628,GWh
+2010,August,Residential,876.830097,GWh
+2010,September,Residential,873.467004,GWh
+2010,October,Residential,820.601932,GWh
+2010,November,Residential,787.327423,GWh
+2010,December,Residential,773.983393,GWh
+2010,January,Business,1314.163337,GWh
+2010,February,Business,1343.927199,GWh
+2010,March,Business,1432.694824,GWh
+2010,April,Business,1386.90892,GWh
+2010,May,Business,1402.290518,GWh
+2010,June,Business,1450.502213,GWh
+2010,July,Business,1457.581913,GWh
+2010,August,Business,1396.254829,GWh
+2010,September,Business,1411.686952,GWh
+2010,October,Business,1351.663205,GWh
+2010,November,Business,1310.907831,GWh
+2010,December,Business,1331.700769,GWh
+2010,January,Industrial,1112.566656,GWh
+2010,February,Industrial,1129.37297,GWh
+2010,March,Industrial,1282.620355,GWh
+2010,April,Industrial,1094.785404,GWh
+2010,May,Industrial,1257.316172,GWh
+2010,June,Industrial,1265.988385,GWh
+2010,July,Industrial,1265.593374,GWh
+2010,August,Industrial,1231.927123,GWh
+2010,September,Industrial,1239.809741,GWh
+2010,October,Industrial,1231.927063,GWh
+2010,November,Industrial,1192.488116,GWh
+2010,December,Industrial,1122.197481,GWh
+2010,January,Government & Non-Profit,104.820877,GWh
+2010,February,Government & Non-Profit,108.850125,GWh
+2010,March,Government & Non-Profit,110.193545,GWh
+2010,April,Government & Non-Profit,105.701398,GWh
+2010,May,Government & Non-Profit,107.036113,GWh
+2010,June,Government & Non-Profit,127.406035,GWh
+2010,July,Government & Non-Profit,125.179704,GWh
+2010,August,Government & Non-Profit,124.774145,GWh
+2010,September,Government & Non-Profit,123.855523,GWh
+2010,October,Government & Non-Profit,110.03829,GWh
+2010,November,Government & Non-Profit,102.748619,GWh
+2010,December,Government & Non-Profit,107.290364,GWh
+2010,January,Other,127.0838453,GWh
+2010,February,Other,104.6313506,GWh
+2010,March,Other,143.0379187,GWh
+2010,April,Other,146.1752872,GWh
+2010,May,Other,140.5223988,GWh
+2010,June,Other,144.8578485,GWh
+2010,July,Other,138.0218297,GWh
+2010,August,Other,136.0641429,GWh
+2010,September,Other,136.2896433,GWh
+2010,October,Other,139.7444993,GWh
+2010,November,Other,132.6343736,GWh
+2010,December,Other,136.9991305,GWh
+2010,January,Free of Charge,26.229682,GWh
+2010,February,Free of Charge,26.079556,GWh
+2010,March,Free of Charge,29.223391,GWh
+2010,April,Free of Charge,29.225249,GWh
+2010,May,Free of Charge,28.123573,GWh
+2010,June,Free of Charge,28.996377,GWh
+2010,July,Free of Charge,29.408089,GWh
+2010,August,Free of Charge,29.419229,GWh
+2010,September,Free of Charge,28.597414,GWh
+2010,October,Free of Charge,29.689789,GWh
+2010,November,Free of Charge,28.833763,GWh
+2010,December,Free of Charge,32.25819,GWh
+2011,January,Residential,707.164618,GWh
+2011,February,Residential,787.293785,GWh
+2011,March,Residential,806.635942,GWh
+2011,April,Residential,864.574258,GWh
+2011,May,Residential,968.858448,GWh
+2011,June,Residential,933.590021,GWh
+2011,July,Residential,912.802924,GWh
+2011,August,Residential,902.589413,GWh
+2011,September,Residential,886.080596,GWh
+2011,October,Residential,832.367678,GWh
+2011,November,Residential,819.787255,GWh
+2011,December,Residential,703.059798,GWh
+2011,January,Business,1251.148696,GWh
+2011,February,Business,1274.342408,GWh
+2011,March,Business,1376.380667,GWh
+2011,April,Business,1346.700466,GWh
+2011,May,Business,1492.155684,GWh
+2011,June,Business,1495.983839,GWh
+2011,July,Business,1468.287831,GWh
+2011,August,Business,1465.827106,GWh
+2011,September,Business,1468.486476,GWh
+2011,October,Business,1424.144609,GWh
+2011,November,Business,1330.370705,GWh
+2011,December,Business,1276.303608,GWh
+2011,January,Industrial,1145.609039,GWh
+2011,February,Industrial,1134.549886,GWh
+2011,March,Industrial,1289.645034,GWh
+2011,April,Industrial,1085.743973,GWh
+2011,May,Industrial,1247.488953,GWh
+2011,June,Industrial,1264.783015,GWh
+2011,July,Industrial,1247.865493,GWh
+2011,August,Industrial,1235.47349,GWh
+2011,September,Industrial,1275.996593,GWh
+2011,October,Industrial,1150.851281,GWh
+2011,November,Industrial,1066.309946,GWh
+2011,December,Industrial,1074.334562,GWh
+2011,January,Government & Non-Profit,92.431637,GWh
+2011,February,Government & Non-Profit,96.075865,GWh
+2011,March,Government & Non-Profit,102.51319,GWh
+2011,April,Government & Non-Profit,89.443473,GWh
+2011,May,Government & Non-Profit,111.923503,GWh
+2011,June,Government & Non-Profit,124.638816,GWh
+2011,July,Government & Non-Profit,120.955195,GWh
+2011,August,Government & Non-Profit,122.020096,GWh
+2011,September,Government & Non-Profit,118.622633,GWh
+2011,October,Government & Non-Profit,111.210245,GWh
+2011,November,Government & Non-Profit,107.92542,GWh
+2011,December,Government & Non-Profit,95.476376,GWh
+2011,January,Other,127.4191662,GWh
+2011,February,Other,133.5637818,GWh
+2011,March,Other,121.5908994,GWh
+2011,April,Other,117.5848242,GWh
+2011,May,Other,129.7962665,GWh
+2011,June,Other,128.9451477,GWh
+2011,July,Other,141.7020431,GWh
+2011,August,Other,146.7449382,GWh
+2011,September,Other,147.8685645,GWh
+2011,October,Other,124.9154638,GWh
+2011,November,Other,91.8086727,GWh
+2011,December,Other,128.9900468,GWh
+2011,January,Free of Charge,26.893312,GWh
+2011,February,Free of Charge,24.329866,GWh
+2011,March,Free of Charge,34.176255,GWh
+2011,April,Free of Charge,28.504951,GWh
+2011,May,Free of Charge,29.506609,GWh
+2011,June,Free of Charge,28.927875,GWh
+2011,July,Free of Charge,29.755652,GWh
+2011,August,Free of Charge,29.752758,GWh
+2011,September,Free of Charge,26.276536,GWh
+2011,October,Free of Charge,29.797559,GWh
+2011,November,Free of Charge,29.229153,GWh
+2011,December,Free of Charge,29.836683,GWh
+2012,January,Residential,811.408319,GWh
+2012,February,Residential,894.114215,GWh
+2012,March,Residential,998.369673,GWh
+2012,April,Residential,1073.145241,GWh
+2012,May,Residential,1102.282276,GWh
+2012,June,Residential,991.186961,GWh
+2012,July,Residential,940.894395,GWh
+2012,August,Residential,924.956716,GWh
+2012,September,Residential,898.314904,GWh
+2012,October,Residential,928.827717,GWh
+2012,November,Residential,942.510819,GWh
+2012,December,Residential,892.913489,GWh
+2012,January,Business,1373.227541,GWh
+2012,February,Business,1407.479815,GWh
+2012,March,Business,1538.626642,GWh
+2012,April,Business,1504.897748,GWh
+2012,May,Business,1607.929541,GWh
+2012,June,Business,1527.788188,GWh
+2012,July,Business,1548.879411,GWh
+2012,August,Business,1486.313145,GWh
+2012,September,Business,1472.745612,GWh
+2012,October,Business,1610.749182,GWh
+2012,November,Business,1628.002353,GWh
+2012,December,Business,1565.092512,GWh
+2012,January,Industrial,1143.55066,GWh
+2012,February,Industrial,1229.159215,GWh
+2012,March,Industrial,1343.856903,GWh
+2012,April,Industrial,1129.366641,GWh
+2012,May,Industrial,1324.766095,GWh
+2012,June,Industrial,1283.147749,GWh
+2012,July,Industrial,1307.260913,GWh
+2012,August,Industrial,1251.156487,GWh
+2012,September,Industrial,1253.234493,GWh
+2012,October,Industrial,1287.905666,GWh
+2012,November,Industrial,1282.182948,GWh
+2012,December,Industrial,1169.050329,GWh
+2012,January,Government & Non-Profit,97.636984,GWh
+2012,February,Government & Non-Profit,112.327008,GWh
+2012,March,Government & Non-Profit,122.265458,GWh
+2012,April,Government & Non-Profit,99.161313,GWh
+2012,May,Government & Non-Profit,120.345993,GWh
+2012,June,Government & Non-Profit,117.309203,GWh
+2012,July,Government & Non-Profit,123.064225,GWh
+2012,August,Government & Non-Profit,117.235757,GWh
+2012,September,Government & Non-Profit,117.34452,GWh
+2012,October,Government & Non-Profit,3.546225,GWh
+2012,November,Government & Non-Profit,8.561412,GWh
+2012,December,Government & Non-Profit,10.297415,GWh
+2012,January,Other,154.818458,GWh
+2012,February,Other,160.7262878,GWh
+2012,March,Other,238.6159187,GWh
+2012,April,Other,179.3949689,GWh
+2012,May,Other,191.5025197,GWh
+2012,June,Other,182.2612684,GWh
+2012,July,Other,166.795865,GWh
+2012,August,Other,192.6307125,GWh
+2012,September,Other,180.6153009,GWh
+2012,October,Other,164.8194692,GWh
+2012,November,Other,162.7760343,GWh
+2012,December,Other,185.8222575,GWh
+2012,January,Free of Charge,29.760087,GWh
+2012,February,Free of Charge,27.421684,GWh
+2012,March,Free of Charge,30.452183,GWh
+2012,April,Free of Charge,29.27308,GWh
+2012,May,Free of Charge,30.537285,GWh
+2012,June,Free of Charge,29.628172,GWh
+2012,July,Free of Charge,30.616406,GWh
+2012,August,Free of Charge,30.492829,GWh
+2012,September,Free of Charge,29.662041,GWh
+2012,October,Free of Charge,30.668722,GWh
+2012,November,Free of Charge,29.715222,GWh
+2012,December,Free of Charge,30.601415,GWh
+2013,January,Residential,852.055912,GWh
+2013,February,Residential,911.829758,GWh
+2013,March,Residential,1005.159617,GWh
+2013,April,Residential,1103.347987,GWh
+2013,May,Residential,1157.139431,GWh
+2013,June,Residential,1010.026741,GWh
+2013,July,Residential,945.277951,GWh
+2013,August,Residential,963.31578,GWh
+2013,September,Residential,914.385157,GWh
+2013,October,Residential,923.911144,GWh
+2013,November,Residential,903.052993,GWh
+2013,December,Residential,730.897431,GWh
+2013,January,Business,1543.675287,GWh
+2013,February,Business,1511.943165,GWh
+2013,March,Business,1669.720522,GWh
+2013,April,Business,1632.692441,GWh
+2013,May,Business,1771.712184,GWh
+2013,June,Business,1657.603557,GWh
+2013,July,Business,1637.909732,GWh
+2013,August,Business,1686.68319,GWh
+2013,September,Business,1604.845967,GWh
+2013,October,Business,1617.767616,GWh
+2013,November,Business,1600.919311,GWh
+2013,December,Business,1357.007997,GWh
+2013,January,Industrial,1206.384058,GWh
+2013,February,Industrial,1156.370037,GWh
+2013,March,Industrial,1335.176821,GWh
+2013,April,Industrial,1110.038944,GWh
+2013,May,Industrial,1305.012833,GWh
+2013,June,Industrial,1259.888569,GWh
+2013,July,Industrial,1240.395325,GWh
+2013,August,Industrial,1246.585486,GWh
+2013,September,Industrial,1202.316081,GWh
+2013,October,Industrial,1211.304503,GWh
+2013,November,Industrial,1198.860191,GWh
+2013,December,Industrial,1048.341791,GWh
+2013,January,Government & Non-Profit,10.001313,GWh
+2013,February,Government & Non-Profit,8.891968,GWh
+2013,March,Government & Non-Profit,7.298457,GWh
+2013,April,Government & Non-Profit,7.263421,GWh
+2013,May,Government & Non-Profit,8.417106,GWh
+2013,June,Government & Non-Profit,7.956876,GWh
+2013,July,Government & Non-Profit,7.598704,GWh
+2013,August,Government & Non-Profit,7.75872,GWh
+2013,September,Government & Non-Profit,7.641526,GWh
+2013,October,Government & Non-Profit,7.707905,GWh
+2013,November,Government & Non-Profit,7.665825,GWh
+2013,December,Government & Non-Profit,6.545959,GWh
+2013,January,Other,171.0339135,GWh
+2013,February,Other,182.2031737,GWh
+2013,March,Other,210.1823073,GWh
+2013,April,Other,194.5725272,GWh
+2013,May,Other,220.2643358,GWh
+2013,June,Other,205.1434477,GWh
+2013,July,Other,186.9345974,GWh
+2013,August,Other,184.3749569,GWh
+2013,September,Other,184.9343065,GWh
+2013,October,Other,199.201087,GWh
+2013,November,Other,191.8995107,GWh
+2013,December,Other,158.846025,GWh
+2013,January,Free of Charge,30.668018,GWh
+2013,February,Free of Charge,27.904358,GWh
+2013,March,Free of Charge,31.115329,GWh
+2013,April,Free of Charge,29.782433,GWh
+2013,May,Free of Charge,31.136208,GWh
+2013,June,Free of Charge,30.355261,GWh
+2013,July,Free of Charge,31.125008,GWh
+2013,August,Free of Charge,31.144697,GWh
+2013,September,Free of Charge,30.53496,GWh
+2013,October,Free of Charge,31.280922,GWh
+2013,November,Free of Charge,30.467605,GWh
+2013,December,Free of Charge,30.7132,GWh
+2014,January,Residential,681.768146,GWh
+2014,February,Residential,787.296899,GWh
+2014,March,Residential,967.408862,GWh
+2014,April,Residential,1122.780667,GWh
+2014,May,Residential,1209.223629,GWh
+2014,June,Residential,1127.631966,GWh
+2014,July,Residential,1030.486819,GWh
+2014,August,Residential,1003.589201,GWh
+2014,September,Residential,986.896435,GWh
+2014,October,Residential,965.01052,GWh
+2014,November,Residential,971.2941,GWh
+2014,December,Residential,841.365338,GWh
+2014,January,Business,1342.639098,GWh
+2014,February,Business,1394.711744,GWh
+2014,March,Business,1645.642073,GWh
+2014,April,Business,1654.733267,GWh
+2014,May,Business,1780.041939,GWh
+2014,June,Business,1711.730958,GWh
+2014,July,Business,1688.858723,GWh
+2014,August,Business,1681.865804,GWh
+2014,September,Business,1660.860611,GWh
+2014,October,Business,1637.976066,GWh
+2014,November,Business,1642.782083,GWh
+2014,December,Business,1503.489592,GWh
+2014,January,Industrial,1094.280032,GWh
+2014,February,Industrial,1098.32309,GWh
+2014,March,Industrial,1267.525237,GWh
+2014,April,Industrial,1087.128643,GWh
+2014,May,Industrial,1272.497672,GWh
+2014,June,Industrial,1239.77515,GWh
+2014,July,Industrial,1227.64364,GWh
+2014,August,Industrial,1216.161989,GWh
+2014,September,Industrial,1223.022163,GWh
+2014,October,Industrial,1227.484761,GWh
+2014,November,Industrial,1192.217623,GWh
+2014,December,Industrial,1101.009131,GWh
+2014,January,Government & Non-Profit,6.29951,GWh
+2014,February,Government & Non-Profit,6.690077,GWh
+2014,March,Government & Non-Profit,7.885969,GWh
+2014,April,Government & Non-Profit,8.188921,GWh
+2014,May,Government & Non-Profit,9.608439,GWh
+2014,June,Government & Non-Profit,8.739673,GWh
+2014,July,Government & Non-Profit,8.521465,GWh
+2014,August,Government & Non-Profit,8.469787,GWh
+2014,September,Government & Non-Profit,7.992424,GWh
+2014,October,Government & Non-Profit,8.155977,GWh
+2014,November,Government & Non-Profit,8.211412,GWh
+2014,December,Government & Non-Profit,7.368204,GWh
+2014,January,Other,168.7429536,GWh
+2014,February,Other,173.9191898,GWh
+2014,March,Other,205.8025594,GWh
+2014,April,Other,205.2026295,GWh
+2014,May,Other,226.8530408,GWh
+2014,June,Other,223.0356048,GWh
+2014,July,Other,213.2877201,GWh
+2014,August,Other,215.1741657,GWh
+2014,September,Other,213.7879417,GWh
+2014,October,Other,213.3691792,GWh
+2014,November,Other,214.9936303,GWh
+2014,December,Other,198.9687647,GWh
+2014,January,Free of Charge,35.773031,GWh
+2014,February,Free of Charge,33.755042,GWh
+2014,March,Free of Charge,37.306741,GWh
+2014,April,Free of Charge,36.18337,GWh
+2014,May,Free of Charge,37.402525,GWh
+2014,June,Free of Charge,36.824561,GWh
+2014,July,Free of Charge,38.045911,GWh
+2014,August,Free of Charge,38.106515,GWh
+2014,September,Free of Charge,37.138783,GWh
+2014,October,Free of Charge,38.560949,GWh
+2014,November,Free of Charge,37.527539,GWh
+2014,December,Free of Charge,38.456775,GWh
+2015,January,Residential,745.818707,GWh
+2015,February,Residential,853.604285,GWh
+2015,March,Residential,1017.888835,GWh
+2015,April,Residential,1100.932942,GWh
+2015,May,Residential,1216.771195,GWh
+2015,June,Residential,1178.43713,GWh
+2015,July,Residential,1091.08848,GWh
+2015,August,Residential,1091.636279,GWh
+2015,September,Residential,1040.525303,GWh
+2015,October,Residential,1000.139558,GWh
+2015,November,Residential,1052.48003,GWh
+2015,December,Residential,980.066365,GWh
+2015,January,Business,1426.099321,GWh
+2015,February,Business,1475.746174,GWh
+2015,March,Business,1712.215057,GWh
+2015,April,Business,1650.22312,GWh
+2015,May,Business,1814.451696,GWh
+2015,June,Business,1768.252343,GWh
+2015,July,Business,1766.753194,GWh
+2015,August,Business,1732.491894,GWh
+2015,September,Business,1709.85025,GWh
+2015,October,Business,1686.387106,GWh
+2015,November,Business,1704.351306,GWh
+2015,December,Business,1638.975764,GWh
+2015,January,Industrial,1102.55195,GWh
+2015,February,Industrial,1104.701485,GWh
+2015,March,Industrial,1240.996939,GWh
+2015,April,Industrial,1063.191607,GWh
+2015,May,Industrial,1249.948207,GWh
+2015,June,Industrial,1216.726323,GWh
+2015,July,Industrial,1224.046158,GWh
+2015,August,Industrial,1173.407831,GWh
+2015,September,Industrial,1178.973784,GWh
+2015,October,Industrial,1192.243655,GWh
+2015,November,Industrial,1167.3835,GWh
+2015,December,Industrial,1113.348171,GWh
+2015,January,Government & Non-Profit,6.787922,GWh
+2015,February,Government & Non-Profit,7.24676,GWh
+2015,March,Government & Non-Profit,5.681551,GWh
+2015,April,Government & Non-Profit,11.788119,GWh
+2015,May,Government & Non-Profit,10.074067,GWh
+2015,June,Government & Non-Profit,9.41852,GWh
+2015,July,Government & Non-Profit,9.937204,GWh
+2015,August,Government & Non-Profit,9.521415,GWh
+2015,September,Government & Non-Profit,9.424174,GWh
+2015,October,Government & Non-Profit,9.469375,GWh
+2015,November,Government & Non-Profit,9.650663,GWh
+2015,December,Government & Non-Profit,9.595035,GWh
+2015,January,Other,188.2361735,GWh
+2015,February,Other,199.9227132,GWh
+2015,March,Other,222.3425742,GWh
+2015,April,Other,230.6790999,GWh
+2015,May,Other,249.3622718,GWh
+2015,June,Other,242.8256026,GWh
+2015,July,Other,234.7947153,GWh
+2015,August,Other,239.1862494,GWh
+2015,September,Other,235.5830786,GWh
+2015,October,Other,237.5838762,GWh
+2015,November,Other,243.4076154,GWh
+2015,December,Other,228.5534095,GWh
+2015,January,Free of Charge,32.809365,GWh
+2015,February,Free of Charge,29.877531,GWh
+2015,March,Free of Charge,52.033496,GWh
+2015,April,Free of Charge,38.696292,GWh
+2015,May,Free of Charge,40.272881,GWh
+2015,June,Free of Charge,38.971968,GWh
+2015,July,Free of Charge,40.268715,GWh
+2015,August,Free of Charge,40.698173,GWh
+2015,September,Free of Charge,39.33384,GWh
+2015,October,Free of Charge,40.079849,GWh
+2015,November,Free of Charge,40.228202,GWh
+2015,December,Free of Charge,41.747705,GWh
+2016,January,Residential,936.389939,GWh
+2016,February,Residential,895.369302,GWh
+2016,March,Residential,1099.246188,GWh
+2016,April,Residential,1263.763997,GWh
+2016,May,Residential,1337.495923,GWh
+2016,June,Residential,1155.615712,GWh
+2016,July,Residential,1085.023358,GWh
+2016,August,Residential,1149.305209,GWh
+2016,September,Residential,1079.485224,GWh
+2016,October,Residential,1036.116774,GWh
+2016,November,Residential,1032.053222,GWh
+2016,December,Residential,928.350178,GWh
+2016,January,Business,1592.79285,GWh
+2016,February,Business,1527.338655,GWh
+2016,March,Business,1785.901371,GWh
+2016,April,Business,1781.845999,GWh
+2016,May,Business,1894.601527,GWh
+2016,June,Business,1781.318396,GWh
+2016,July,Business,1740.448884,GWh
+2016,August,Business,1818.346233,GWh
+2016,September,Business,1739.249757,GWh
+2016,October,Business,1706.812036,GWh
+2016,November,Business,1708.70858,GWh
+2016,December,Business,1587.783137,GWh
+2016,January,Industrial,1107.888395,GWh
+2016,February,Industrial,1110.083778,GWh
+2016,March,Industrial,1262.567375,GWh
+2016,April,Industrial,1090.117579,GWh
+2016,May,Industrial,1253.861966,GWh
+2016,June,Industrial,1233.721005,GWh
+2016,July,Industrial,1199.338238,GWh
+2016,August,Industrial,1204.351522,GWh
+2016,September,Industrial,1197.852788,GWh
+2016,October,Industrial,1193.452751,GWh
+2016,November,Industrial,1196.970915,GWh
+2016,December,Industrial,1114.510338,GWh
+2016,January,Government & Non-Profit,8.525551,GWh
+2016,February,Government & Non-Profit,8.584091,GWh
+2016,March,Government & Non-Profit,10.181733,GWh
+2016,April,Government & Non-Profit,10.414271,GWh
+2016,May,Government & Non-Profit,11.050557,GWh
+2016,June,Government & Non-Profit,10.813633,GWh
+2016,July,Government & Non-Profit,10.902718,GWh
+2016,August,Government & Non-Profit,11.569082,GWh
+2016,September,Government & Non-Profit,11.035943,GWh
+2016,October,Government & Non-Profit,11.043529,GWh
+2016,November,Government & Non-Profit,10.836981,GWh
+2016,December,Government & Non-Profit,9.949165,GWh
+2016,January,Other,217.576464,GWh
+2016,February,Other,212.2210855,GWh
+2016,March,Other,246.0196303,GWh
+2016,April,Other,246.5912063,GWh
+2016,May,Other,263.1692821,GWh
+2016,June,Other,257.8991385,GWh
+2016,July,Other,251.3653951,GWh
+2016,August,Other,260.8735838,GWh
+2016,September,Other,255.7838543,GWh
+2016,October,Other,256.9658379,GWh
+2016,November,Other,252.2045528,GWh
+2016,December,Other,228.1477824,GWh
+2016,January,Free of Charge,43.428759,GWh
+2016,February,Free of Charge,39.513987,GWh
+2016,March,Free of Charge,43.369808,GWh
+2016,April,Free of Charge,41.352918,GWh
+2016,May,Free of Charge,43.170427,GWh
+2016,June,Free of Charge,42.865476,GWh
+2016,July,Free of Charge,42.673759,GWh
+2016,August,Free of Charge,43.703305,GWh
+2016,September,Free of Charge,42.370941,GWh
+2016,October,Free of Charge,43.353545,GWh
+2016,November,Free of Charge,42.361996,GWh
+2016,December,Free of Charge,43.062018,GWh
+2017,January,Residential,939.484246,GWh
+2017,February,Residential,955.105981,GWh
+2017,March,Residential,1124.217732,GWh
+2017,April,Residential,1226.62091,GWh
+2017,May,Residential,1225.099794,GWh
+2017,June,Residential,1170.17357,GWh
+2017,July,Residential,1109.758448,GWh
+2017,August,Residential,1170.989913,GWh
+2017,September,Residential,1135.529929,GWh
+2017,October,Residential,1053.212773,GWh
+2017,November,Residential,1013.350569,GWh
+2017,December,Residential,917.855384,GWh
+2017,January,Business,1590.791986,GWh
+2017,February,Business,1537.932763,GWh
+2017,March,Business,1819.529273,GWh
+2017,April,Business,1724.723433,GWh
+2017,May,Business,1853.150883,GWh
+2017,June,Business,1813.627786,GWh
+2017,July,Business,1755.083498,GWh
+2017,August,Business,1847.88556,GWh
+2017,September,Business,1800.631643,GWh
+2017,October,Business,1705.129026,GWh
+2017,November,Business,1674.679435,GWh
+2017,December,Business,1550.891095,GWh
+2017,January,Industrial,1104.092151,GWh
+2017,February,Industrial,1082.864485,GWh
+2017,March,Industrial,1264.502198,GWh
+2017,April,Industrial,1052.665349,GWh
+2017,May,Industrial,1223.478319,GWh
+2017,June,Industrial,1197.142834,GWh
+2017,July,Industrial,1157.831599,GWh
+2017,August,Industrial,1204.274279,GWh
+2017,September,Industrial,1191.746243,GWh
+2017,October,Industrial,1139.851115,GWh
+2017,November,Industrial,1176.785378,GWh
+2017,December,Industrial,1059.307712,GWh
+2017,January,Government & Non-Profit,10.009734,GWh
+2017,February,Government & Non-Profit,9.355621,GWh
+2017,March,Government & Non-Profit,11.554126,GWh
+2017,April,Government & Non-Profit,11.100151,GWh
+2017,May,Government & Non-Profit,11.72146,GWh
+2017,June,Government & Non-Profit,11.467998,GWh
+2017,July,Government & Non-Profit,11.240184,GWh
+2017,August,Government & Non-Profit,12.046321,GWh
+2017,September,Government & Non-Profit,11.353744,GWh
+2017,October,Government & Non-Profit,11.102312,GWh
+2017,November,Government & Non-Profit,10.708617,GWh
+2017,December,Government & Non-Profit,9.725993,GWh
+2017,January,Other,224.2157781,GWh
+2017,February,Other,235.0082439,GWh
+2017,March,Other,259.4660378,GWh
+2017,April,Other,245.2816831,GWh
+2017,May,Other,265.3857581,GWh
+2017,June,Other,258.8587738,GWh
+2017,July,Other,250.9562878,GWh
+2017,August,Other,266.8035646,GWh
+2017,September,Other,264.0694904,GWh
+2017,October,Other,252.5672362,GWh
+2017,November,Other,248.5145626,GWh
+2017,December,Other,228.0736517,GWh
+2017,January,Free of Charge,43.821815,GWh
+2017,February,Free of Charge,39.636623,GWh
+2017,March,Free of Charge,44.034494,GWh
+2017,April,Free of Charge,42.580777,GWh
+2017,May,Free of Charge,44.047049,GWh
+2017,June,Free of Charge,42.994594,GWh
+2017,July,Free of Charge,43.564432,GWh
+2017,August,Free of Charge,44.627584,GWh
+2017,September,Free of Charge,43.105711,GWh
+2017,October,Free of Charge,43.968368,GWh
+2017,November,Free of Charge,42.785346,GWh
+2017,December,Free of Charge,43.227267,GWh
+2018,January,Residential,878.754193,GWh
+2018,February,Residential,965.575367,GWh
+2018,March,Residential,1105.504258,GWh
+2018,April,Residential,1164.196148,GWh
+2018,May,Residential,1196.505042,GWh
+2018,June,Residential,1194.459151,GWh
+2018,July,Residential,1137.740672,GWh
+2018,August,Residential,1120.000112,GWh
+2018,September,Residential,1089.80205,GWh
+2018,October,Residential,1123.151281,GWh
+2018,November,Residential,1120.405719,GWh
+2018,December,Residential,1037.768616,GWh
+2018,January,Business,1599.961407,GWh
+2018,February,Business,1551.548277,GWh
+2018,March,Business,1804.891369,GWh
+2018,April,Business,1702.129423,GWh
+2018,May,Business,1837.298509,GWh
+2018,June,Business,1828.21476,GWh
+2018,July,Business,1785.902754,GWh
+2018,August,Business,1813.932002,GWh
+2018,September,Business,1769.822033,GWh
+2018,October,Business,1799.210927,GWh
+2018,November,Business,1784.496205,GWh
+2018,December,Business,1715.483423,GWh
+2018,January,Industrial,1107.172225,GWh
+2018,February,Industrial,1067.086496,GWh
+2018,March,Industrial,1243.538394,GWh
+2018,April,Industrial,1021.587403,GWh
+2018,May,Industrial,1190.145589,GWh
+2018,June,Industrial,1214.946256,GWh
+2018,July,Industrial,1160.184093,GWh
+2018,August,Industrial,1190.350688,GWh
+2018,September,Industrial,1160.218141,GWh
+2018,October,Industrial,1157.087235,GWh
+2018,November,Industrial,1143.894353,GWh
+2018,December,Industrial,1049.695751,GWh
+2018,January,Government & Non-Profit,10.191976,GWh
+2018,February,Government & Non-Profit,9.615584,GWh
+2018,March,Government & Non-Profit,11.511036,GWh
+2018,April,Government & Non-Profit,10.642124,GWh
+2018,May,Government & Non-Profit,11.327734,GWh
+2018,June,Government & Non-Profit,11.450681,GWh
+2018,July,Government & Non-Profit,11.195327,GWh
+2018,August,Government & Non-Profit,11.095759,GWh
+2018,September,Government & Non-Profit,10.814727,GWh
+2018,October,Government & Non-Profit,11.033109,GWh
+2018,November,Government & Non-Profit,10.837428,GWh
+2018,December,Government & Non-Profit,10.636091,GWh
+2018,January,Other,237.7485829,GWh
+2018,February,Other,233.1384906,GWh
+2018,March,Other,257.2664097,GWh
+2018,April,Other,250.6788379,GWh
+2018,May,Other,275.0272649,GWh
+2018,June,Other,274.6508954,GWh
+2018,July,Other,267.805179,GWh
+2018,August,Other,276.9041323,GWh
+2018,September,Other,273.617079,GWh
+2018,October,Other,275.528229,GWh
+2018,November,Other,268.5481944,GWh
+2018,December,Other,254.9031968,GWh
+2018,January,Free of Charge,44.616177,GWh
+2018,February,Free of Charge,39.954417,GWh
+2018,March,Free of Charge,44.417753,GWh
+2018,April,Free of Charge,42.90529,GWh
+2018,May,Free of Charge,44.586789,GWh
+2018,June,Free of Charge,43.889814,GWh
+2018,July,Free of Charge,45.399308,GWh
+2018,August,Free of Charge,45.442806,GWh
+2018,September,Free of Charge,43.822005,GWh
+2018,October,Free of Charge,45.569914,GWh
+2018,November,Free of Charge,44.129775,GWh
+2018,December,Free of Charge,44.806913,GWh
+2019,January,Residential,1035.212634,GWh
+2019,February,Residential,1122.054697,GWh
+2019,March,Residential,1223.375002,GWh
+2019,April,Residential,1424.923402,GWh
+2019,May,Residential,1439.794428,GWh
+2019,June,Residential,1270.17513,GWh
+2019,July,Residential,1207.61166,GWh
+2019,August,Residential,1184.582736,GWh
+2019,September,Residential,1119.342806,GWh
+2019,October,Residential,1180.984648,GWh
+2019,November,Residential,1115.392285,GWh
+2019,December,Residential,972.911408,GWh
+2019,January,Business,1698.951558,GWh
+2019,February,Business,1708.209266,GWh
+2019,March,Business,1896.539008,GWh
+2019,April,Business,1920.160861,GWh
+2019,May,Business,2008.798063,GWh
+2019,June,Business,1895.865893,GWh
+2019,July,Business,1861.274348,GWh
+2019,August,Business,1877.626405,GWh
+2019,September,Business,1791.336129,GWh
+2019,October,Business,1876.774111,GWh
+2019,November,Business,1783.368246,GWh
+2019,December,Business,1650.003467,GWh
+2019,January,Industrial,1078.597862,GWh
+2019,February,Industrial,1049.941873,GWh
+2019,March,Industrial,1199.709559,GWh
+2019,April,Industrial,1027.920798,GWh
+2019,May,Industrial,1178.158239,GWh
+2019,June,Industrial,1134.976344,GWh
+2019,July,Industrial,1119.275038,GWh
+2019,August,Industrial,1123.405808,GWh
+2019,September,Industrial,1072.76448,GWh
+2019,October,Industrial,1090.827961,GWh
+2019,November,Industrial,1070.36916,GWh
+2019,December,Industrial,969.5008878,GWh
+2019,January,Government & Non-Profit,10.206866,GWh
+2019,February,Government & Non-Profit,10.204849,GWh
+2019,March,Government & Non-Profit,11.848612,GWh
+2019,April,Government & Non-Profit,11.676453,GWh
+2019,May,Government & Non-Profit,12.326786,GWh
+2019,June,Government & Non-Profit,11.634174,GWh
+2019,July,Government & Non-Profit,11.389367,GWh
+2019,August,Government & Non-Profit,11.613336,GWh
+2019,September,Government & Non-Profit,10.987616,GWh
+2019,October,Government & Non-Profit,11.695792,GWh
+2019,November,Government & Non-Profit,10.769805,GWh
+2019,December,Government & Non-Profit,10.006605,GWh
+2019,January,Other,254.190031,GWh
+2019,February,Other,259.9413104,GWh
+2019,March,Other,287.1795351,GWh
+2019,April,Other,283.7909496,GWh
+2019,May,Other,294.9173724,GWh
+2019,June,Other,285.0253852,GWh
+2019,July,Other,282.0833186,GWh
+2019,August,Other,284.6531814,GWh
+2019,September,Other,273.7098991,GWh
+2019,October,Other,286.8384214,GWh
+2019,November,Other,259.8908887,GWh
+2019,December,Other,237.5706633,GWh
+2019,January,Free of Charge,45.973096,GWh
+2019,February,Free of Charge,41.341005,GWh
+2019,March,Free of Charge,45.979324,GWh
+2019,April,Free of Charge,44.320915,GWh
+2019,May,Free of Charge,45.985159,GWh
+2019,June,Free of Charge,44.850808,GWh
+2019,July,Free of Charge,45.800131,GWh
+2019,August,Free of Charge,46.103615,GWh
+2019,September,Free of Charge,44.335303,GWh
+2019,October,Free of Charge,45.48542,GWh
+2019,November,Free of Charge,45.331183,GWh
+2019,December,Free of Charge,45.109782,GWh
+2020,January,Residential,1142.494105,GWh
+2020,February,Residential,1143.050032,GWh
+2020,March,Residential,1309.957314,GWh
+2020,April,Residential,1454.700032,GWh
+2020,May,Residential,1757.38961,GWh
+2020,June,Residential,1526.981018,GWh
+2020,July,Residential,1402.432302,GWh
+2020,August,Residential,1343.682986,GWh
+2020,September,Residential,1322.104962,GWh
+2020,October,Residential,1101.687732,GWh
+2020,November,Residential,1117.499007,GWh
+2020,December,Residential,1071.757827,GWh
+2020,January,Business,1831.709533,GWh
+2020,February,Business,1723.441745,GWh
+2020,March,Business,1766.198568,GWh
+2020,April,Business,1458.303974,GWh
+2020,May,Business,1493.21948,GWh
+2020,June,Business,1572.538342,GWh
+2020,July,Business,1663.946326,GWh
+2020,August,Business,1702.489089,GWh
+2020,September,Business,1687.173771,GWh
+2020,October,Business,1594.975514,GWh
+2020,November,Business,1556.745007,GWh
+2020,December,Business,1523.228778,GWh
+2020,January,Industrial,1039.744719,GWh
+2020,February,Industrial,1030.324516,GWh
+2020,March,Industrial,1105.063457,GWh
+2020,April,Industrial,899.8405292,GWh
+2020,May,Industrial,926.9394705,GWh
+2020,June,Industrial,907.7609703,GWh
+2020,July,Industrial,951.531596,GWh
+2020,August,Industrial,988.0147634,GWh
+2020,September,Industrial,1001.742312,GWh
+2020,October,Industrial,1014.188594,GWh
+2020,November,Industrial,998.8806463,GWh
+2020,December,Industrial,953.6283474,GWh
+2020,January,Government & Non-Profit,11.138786,GWh
+2020,February,Government & Non-Profit,10.552881,GWh
+2020,March,Government & Non-Profit,11.621855,GWh
+2020,April,Government & Non-Profit,10.94343,GWh
+2020,May,Government & Non-Profit,11.806339,GWh
+2020,June,Government & Non-Profit,11.234472,GWh
+2020,July,Government & Non-Profit,11.523149,GWh
+2020,August,Government & Non-Profit,11.509134,GWh
+2020,September,Government & Non-Profit,11.299933,GWh
+2020,October,Government & Non-Profit,10.822079,GWh
+2020,November,Government & Non-Profit,10.411325,GWh
+2020,December,Government & Non-Profit,10.14634,GWh
+2020,January,Other,262.2225791,GWh
+2020,February,Other,255.0039995,GWh
+2020,March,Other,277.203294,GWh
+2020,April,Other,254.3183671,GWh
+2020,May,Other,228.5691098,GWh
+2020,June,Other,203.1293654,GWh
+2020,July,Other,246.2497004,GWh
+2020,August,Other,242.5365224,GWh
+2020,September,Other,256.9618934,GWh
+2020,October,Other,241.5757827,GWh
+2020,November,Other,237.8564026,GWh
+2020,December,Other,229.1475445,GWh
+2020,January,Free of Charge,46.634257,GWh
+2020,February,Free of Charge,43.045852,GWh
+2020,March,Free of Charge,46.058862,GWh
+2020,April,Free of Charge,45.529923,GWh
+2020,May,Free of Charge,46.070786,GWh
+2020,June,Free of Charge,45.205157,GWh
+2020,July,Free of Charge,47.018813,GWh
+2020,August,Free of Charge,46.889669,GWh
+2020,September,Free of Charge,45.122056,GWh
+2020,October,Free of Charge,46.377961,GWh
+2020,November,Free of Charge,44.87546,GWh
+2020,December,Free of Charge,46.30956,GWh
+2021,January,Residential,1005.12248,GWh
+2021,February,Residential,1135.607071,GWh
+2021,March,Residential,1330.01052,GWh
+2021,April,Residential,1423.993529,GWh
+2021,May,Residential,1593.296013,GWh
+2021,June,Residential,1579.943977,GWh
+2021,July,Residential,1439.97676,GWh
+2021,August,Residential,1431.313789,GWh
+2021,September,Residential,1289.964756,GWh
+2021,January,Business,1356.456486,GWh
+2021,February,Business,1431.01411,GWh
+2021,March,Business,1727.70785,GWh
+2021,April,Business,1580.532744,GWh
+2021,May,Business,1607.303664,GWh
+2021,June,Business,1616.953783,GWh
+2021,July,Business,1475.388311,GWh
+2021,August,Business,1429.281173,GWh
+2021,September,Business,1456.445677,GWh
+2021,January,Industrial,944.5284261,GWh
+2021,February,Industrial,944.078394,GWh
+2021,March,Industrial,1088.768818,GWh
+2021,April,Industrial,940.4006306,GWh
+2021,May,Industrial,1063.92062,GWh
+2021,June,Industrial,1036.994994,GWh
+2021,July,Industrial,995.9923827,GWh
+2021,August,Industrial,954.2400176,GWh
+2021,September,Industrial,998.5473779,GWh
+2021,January,Government & Non-Profit,9.296315,GWh
+2021,February,Government & Non-Profit,9.479903,GWh
+2021,March,Government & Non-Profit,11.750957,GWh
+2021,April,Government & Non-Profit,10.764574,GWh
+2021,May,Government & Non-Profit,11.231782,GWh
+2021,June,Government & Non-Profit,12.873603,GWh
+2021,July,Government & Non-Profit,9.655197,GWh
+2021,August,Government & Non-Profit,11.227277,GWh
+2021,September,Government & Non-Profit,10.921056,GWh
+2021,January,Other,210.0928162,GWh
+2021,February,Other,221.3657579,GWh
+2021,March,Other,258.5381102,GWh
+2021,April,Other,246.1409858,GWh
+2021,May,Other,257.0581672,GWh
+2021,June,Other,274.273274,GWh
+2021,July,Other,231.8833485,GWh
+2021,August,Other,224.3804978,GWh
+2021,September,Other,233.9014204,GWh
+2021,January,Free of Charge,45.963518,GWh
+2021,February,Free of Charge,42.790635,GWh
+2021,March,Free of Charge,45.825096,GWh
+2021,April,Free of Charge,45.188625,GWh
+2021,May,Free of Charge,46.942525,GWh
+2021,June,Free of Charge,45.367612,GWh
+2021,July,Free of Charge,46.440245,GWh
+2021,August,Free of Charge,46.837365,GWh
+2021,September,Free of Charge,45.287579,GWh
+2021,October,Residential,1263.172699,GWh
+2021,October,Business,1536.350697,GWh
+2021,October,Industrial,1027.63876,GWh
+2021,October,Government & Non-Profit,11.295275,GWh
+2021,October,Other,273.6135929,GWh
+2021,October,Free of Charge,46.690785,GWh
+2021,November,Residential,1217.310837,GWh
+2021,November,Business,1564.789758,GWh
+2021,November,Industrial,1028.871017,GWh
+2021,November,Government & Non-Profit,11.027696,GWh
+2021,November,Other,240.3898295,GWh
+2021,November,Free of Charge,45.159318,GWh
+2021,December,Residential,1062.371181,GWh
+2021,December,Business,1476.366391,GWh
+2021,December,Industrial,946.3660537,GWh
+2021,December,Government & Non-Profit,10.399298,GWh
+2021,December,Other,246.3841227,GWh
+2021,December,Free of Charge,46.573819,GWh
+2022,January,Residential,1198.634588,GWh
+2022,January,Business,1530.352926,GWh
+2022,January,Industrial,985.1178231,GWh
+2022,January,Government & Non-Profit,11.052107,GWh
+2022,January,Other,238.7394304,GWh
+2022,January,Free of Charge,46.918139,GWh
+2022,February,Residential,1210.130233,GWh
+2022,February,Business,1487.24713,GWh
+2022,February,Industrial,957.731761,GWh
+2022,February,Government & Non-Profit,10.456652,GWh
+2022,February,Other,232.1443186,GWh
+2022,February,Free of Charge,42.456375,GWh
+2022,March,Residential,1363.59029,GWh
+2022,March,Business,1728.393835,GWh
+2022,March,Industrial,1100.305746,GWh
+2022,March,Government & Non-Profit,12.304362,GWh
+2022,March,Other,269.8128988,GWh
+2022,March,Free of Charge,47.426006,GWh
+2022,April,Residential,1449.035075,GWh
+2022,April,Business,1640.09942,GWh
+2022,April,Industrial,933.1391146,GWh
+2022,April,Government & Non-Profit,11.524318,GWh
+2022,April,Other,291.8254757,GWh
+2022,April,Free of Charge,45.403549,GWh
+2022,May,Residential,1428.504253,GWh
+2022,May,Business,1718.830262,GWh
+2022,May,Industrial,1052.455615,GWh
+2022,May,Government & Non-Profit,11.785541,GWh
+2022,May,Other,279.2328662,GWh
+2022,May,Free of Charge,47.454837,GWh
+2022,June,Residential,1449.276257,GWh
+2022,June,Business,1772.864989,GWh
+2022,June,Industrial,1038.174167,GWh
+2022,June,Government & Non-Profit,12.143177,GWh
+2022,June,Other,286.8997392,GWh
+2022,June,Free of Charge,45.996919,GWh
+2022,July,Residential,1351.658664,GWh
+2022,July,Business,1754.793038,GWh
+2022,July,Industrial,1022.995671,GWh
+2022,July,Government & Non-Profit,11.840035,GWh
+2022,July,Other,279.9719255,GWh
+2022,July,Free of Charge,47.321297,GWh
+2022,August,Residential,1326.850805,GWh
+2022,August,Business,1776.615059,GWh
+2022,August,Industrial,1028.502083,GWh
+2022,August,Government & Non-Profit,12.005694,GWh
+2022,August,Other,294.0310673,GWh
+2022,August,Free of Charge,47.414135,GWh
+2022,September,Residential,1233.104903,GWh
+2022,September,Business,1730.641433,GWh
+2022,September,Industrial,1014.971617,GWh
+2022,September,Government & Non-Profit,11.741894,GWh
+2022,September,Other,268.1420171,GWh
+2022,September,Free of Charge,45.530264,GWh
+2022,October,Residential,1166.453872,GWh
+2022,October,Business,1648.637818,GWh
+2022,October,Industrial,977.9739326,GWh
+2022,October,Government & Non-Profit,11.359104,GWh
+2022,October,Other,274.5507807,GWh
+2022,October,Free of Charge,47.039759,GWh
+2022,November,Residential,1234.884375,GWh
+2022,November,Business,1677.847035,GWh
+2022,November,Industrial,1010.529352,GWh
+2022,November,Government & Non-Profit,11.237242,GWh
+2022,November,Other,283.1612857,GWh
+2022,November,Free of Charge,45.892782,GWh
+2022,December,Residential,1074.903007,GWh
+2022,December,Business,1576.17991,GWh
+2022,December,Industrial,905.7146688,GWh
+2022,December,Government & Non-Profit,10.95714,GWh
+2022,December,Other,263.102819,GWh
+2022,December,Free of Charge,47.021404,GWh
+2023,January,Residential,1025.908077,GWh
+2023,January,Business,1536.144859,GWh
+2023,January,Industrial,906.0485348,GWh
+2023,January,Government & Non-Profit,10.562602,GWh
+2023,January,Other,257.9020396,GWh
+2023,January,Free of Charge,46.945732,GWh
+2023,February,Residential,1121.499791,GWh
+2023,February,Business,1548.549514,GWh
+2023,February,Industrial,909.6715386,GWh
+2023,February,Government & Non-Profit,10.376632,GWh
+2023,February,Other,267.5399163,GWh
+2023,February,Free of Charge,42.826806,GWh
+2023,March,Residential,1300.473303,GWh
+2023,March,Business,1775.502297,GWh
+2023,March,Industrial,1026.397328,GWh
+2023,March,Government & Non-Profit,12.304228,GWh
+2023,March,Other,300.7276405,GWh
+2023,March,Free of Charge,46.933638,GWh
+2023,April,Residential,1621.32693,GWh
+2023,April,Business,1823.264202,GWh
+2023,April,Industrial,883.2156893,GWh
+2023,April,Government & Non-Profit,12.587161,GWh
+2023,April,Other,308.5320463,GWh
+2023,April,Free of Charge,46.523283,GWh
+2023,May,Residential,1703.339598,GWh
+2023,May,Business,1975.455826,GWh
+2023,May,Industrial,1034.785401,GWh
+2023,May,Government & Non-Profit,13.317798,GWh
+2023,May,Other,337.5667693,GWh
+2023,May,Free of Charge,47.918672,GWh
+2023,June,Residential,1565.778127,GWh
+2023,June,Business,1881.773786,GWh
+2023,June,Industrial,966.905294,GWh
+2023,June,Government & Non-Profit,12.731424,GWh
+2023,June,Other,329.4893501,GWh
+2023,June,Free of Charge,46.609292,GWh
+2023,July,Residential,1482.046647,GWh
+2023,July,Business,1854.506001,GWh
+2023,July,Industrial,980.4279364,GWh
+2023,July,Government & Non-Profit,12.808585,GWh
+2023,July,Other,328.6368915,GWh
+2023,July,Free of Charge,47.768678,GWh
+2023,August,Residential,1490.088892,GWh
+2023,August,Business,1898.180842,GWh
+2023,August,Industrial,973.8425153,GWh
+2023,August,Government & Non-Profit,12.786088,GWh
+2023,August,Other,347.5590684,GWh
+2023,August,Free of Charge,47.75105,GWh
+2023,September,Residential,1386.534057,GWh
+2023,September,Business,1828.008911,GWh
+2023,September,Industrial,959.7926405,GWh
+2023,September,Government & Non-Profit,12.943905,GWh
+2023,September,Other,329.3810646,GWh
+2023,September,Free of Charge,46.217447,GWh
+2023,October,Residential,1351.531585,GWh
+2023,October,Business,1798.867368,GWh
+2023,October,Industrial,957.9718583,GWh
+2023,October,Government & Non-Profit,12.764877,GWh
+2023,October,Other,319.8433645,GWh
+2023,October,Free of Charge,47.446685,GWh
+2023,November,Residential,1293.941598,GWh
+2023,November,Business,1749.967189,GWh
+2023,November,Industrial,943.0700222,GWh
+2023,November,Government & Non-Profit,12.342412,GWh
+2023,November,Other,317.4092811,GWh
+2023,November,Free of Charge,45.960893,GWh
+2023,December,Residential,1275.35931,GWh
+2023,December,Business,1715.380042,GWh
+2023,December,Industrial,858.3225818,GWh
+2023,December,Government & Non-Profit,4.547341,GWh
+2023,December,Other,307.8008543,GWh
+2023,December,Free of Charge,47.419063,GWh
+2024,January,Residential,1293.873539,GWh
+2024,January,Business,1760.532265,GWh
+2024,January,Industrial,905.228665,GWh
+2024,January,Government & Non-Profit,11.784345,GWh
+2024,January,Other,316.0281385,GWh
+2024,January,Free of Charge,47.285724,GWh
+2024,February,Residential,1398.87851,GWh
+2024,February,Business,1789.93078,GWh
+2024,February,Industrial,905.7439542,GWh
+2024,February,Government & Non-Profit,12.720193,GWh
+2024,February,Other,324.2764125,GWh
+2024,February,Free of Charge,45.55601,GWh
+2024,March,Residential,1516.662433,GWh
+2024,March,Business,1949.253211,GWh
+2024,March,Industrial,1001.64714,GWh
+2024,March,Government & Non-Profit,14.223933,GWh
+2024,March,Other,341.7938425,GWh
+2024,March,Free of Charge,48.013117,GWh
+2024,April,Residential,1815.943747,GWh
+2024,April,Business,1970.617975,GWh
+2024,April,Industrial,877.7317444,GWh
+2024,April,Government & Non-Profit,14.254043,GWh
+2024,April,Other,359.8260751,GWh
+2024,April,Free of Charge,46.566846,GWh
+2024,May,Residential,1749.585308,GWh
+2024,May,Business,2045.680872,GWh
+2024,May,Industrial,997.1390722,GWh
+2024,May,Government & Non-Profit,14.369211,GWh
+2024,May,Other,369.5205111,GWh
+2024,May,Free of Charge,48.130867,GWh
+2024,June,Residential,1606.746476,GWh
+2024,June,Business,1929.769079,GWh
+2024,June,Industrial,942.3854747,GWh
+2024,June,Government & Non-Profit,14.035317,GWh
+2024,June,Other,359.4045559,GWh
+2024,June,Free of Charge,46.533285,GWh
+2024,July,Residential,1426.100867,GWh
+2024,July,Business,1876.419774,GWh
+2024,July,Industrial,949.1791063,GWh
+2024,July,Government & Non-Profit,13.778031,GWh
+2024,July,Other,352.5193612,GWh
+2024,July,Free of Charge,47.654309,GWh
+2024,August,Residential,1523.836431,GWh
+2024,August,Business,1978.96812,GWh
+2024,August,Industrial,953.6288145,GWh
+2024,August,Government & Non-Profit,14.793891,GWh
+2024,August,Other,371.517548,GWh
+2024,August,Free of Charge,47.959927,GWh
+2024,September,Residential,1456.788131,GWh
+2024,September,Business,1860.283738,GWh
+2024,September,Industrial,914.3255001,GWh
+2024,September,Government & Non-Profit,14.007985,GWh
+2024,September,Other,366.8573226,GWh
+2024,September,Free of Charge,46.196835,GWh
+2024,October,Residential,1415.090279,GWh
+2024,October,Business,1878.12529,GWh
+2024,October,Industrial,923.9115501,GWh
+2024,October,Government & Non-Profit,14.028384,GWh
+2024,October,Other,377.5583517,GWh
+2024,October,Free of Charge,47.698358,GWh
+2024,November,Residential,1405.327281,GWh
+2024,November,Business,1822.683582,GWh
+2024,November,Industrial,913.8608228,GWh
+2024,November,Government & Non-Profit,13.459155,GWh
+2024,November,Other,377.4317204,GWh
+2024,November,Free of Charge,46.299295,GWh
+2024,December,Residential,1204.135017,GWh
+2024,December,Business,1647.988803,GWh
+2024,December,Industrial,825.0069737,GWh
+2024,December,Government & Non-Profit,12.304123,GWh
+2024,December,Other,342.8283768,GWh
+2024,December,Free of Charge,47.388817,GWh
+2025,January,Residential,1036.903853,GWh
+2025,January,Business,1637.499292,GWh
+2025,January,Industrial,833.0152373,GWh
+2025,January,Government & Non-Profit,11.482506,GWh
+2025,January,Other,247.371413,GWh
+2025,January,Free of Charge,46.966052,GWh
+2025,February,Residential,1246.124671,GWh
+2025,February,Business,1714.267108,GWh
+2025,February,Industrial,845.9732677,GWh
+2025,February,Government & Non-Profit,11.849014,GWh
+2025,February,Other,260.9820733,GWh
+2025,February,Free of Charge,42.840873,GWh
+2025,March,Residential,1469.185587,GWh
+2025,March,Business,1943.819178,GWh
+2025,March,Industrial,948.7516242,GWh
+2025,March,Government & Non-Profit,14.148141,GWh
+2025,March,Other,303.1427082,GWh
+2025,March,Free of Charge,47.768,GWh
+2025,April,Residential,1621.163078,GWh
+2025,April,Business,1931.629302,GWh
+2025,April,Industrial,834.364916,GWh
+2025,April,Government & Non-Profit,13.715353,GWh
+2025,April,Other,298.7365799,GWh
+2025,April,Free of Charge,46.181012,GWh
+2025,May,Residential,1571.045551,GWh
+2025,May,Business,2031.686059,GWh
+2025,May,Industrial,954.574979,GWh
+2025,May,Government & Non-Profit,14.392781,GWh
+2025,May,Other,308.1243668,GWh
+2025,May,Free of Charge,47.646211,GWh
+2025,June,Residential,1543.707823,GWh
+2025,June,Business,1951.340159,GWh
+2025,June,Industrial,896.9702201,GWh
+2025,June,Government & Non-Profit,13.758688,GWh
+2025,June,Other,305.9538186,GWh
+2025,June,Free of Charge,46.165949,GWh
+2025,July,Residential,1512.822152,GWh
+2025,July,Business,1975.841551,GWh
+2025,July,Industrial,908.4361875,GWh
+2025,July,Government & Non-Profit,13.99853,GWh
+2025,July,Other,324.1013347,GWh
+2025,July,Free of Charge,47.735951,GWh
+2025,August,Residential,1562.815092,GWh
+2025,August,Business,2003.66474659481,GWh
+2025,August,Industrial,899.170428002101,GWh
+2025,August,Government & Non-Profit,14.704087,GWh
+2025,August,Other,333.922226320961,GWh
+2025,August,Free of Charge,47.925562,GWh
+2025,September,Residential,1421.992758,GWh
+2025,September,Business,2015.81354276788,GWh
+2025,September,Industrial,886.970216337988,GWh
+2025,September,Government & Non-Profit,13.948003,GWh
+2025,September,Other,232.110719649512,GWh
+2025,September,Free of Charge,46.131535,GWh
+2025,October,Residential,1403.719083,GWh
+2025,October,Business,1993.5642082744,GWh
+2025,October,Industrial,901.47493955318,GWh
+2025,October,Government & Non-Profit,14.084102,GWh
+2025,October,Other,255.269033816327,GWh
+2025,October,Free of Charge,47.706853,GWh
+2025,November,Residential,1234.21287,GWh
+2025,November,Business,1834.70734157724,GWh
+2025,November,Industrial,858.812653911709,GWh
+2025,November,Government & Non-Profit,12.789979,GWh
+2025,November,Other,217.903333294004,GWh
+2025,November,Free of Charge,45.86875,GWh
+2025,December,Residential,1141.64495,GWh
+2025,December,Business,1824.63785741408,GWh
+2025,December,Industrial,814.982266653564,GWh
+2025,December,Government & Non-Profit,12.490502,GWh
+2025,December,Other,214.009216436609,GWh
+2025,December,Free of Charge,47.111267,GWh
