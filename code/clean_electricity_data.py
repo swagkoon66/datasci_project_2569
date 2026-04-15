@@ -58,7 +58,7 @@ def clean_electricity_df(df: pd.DataFrame) -> pd.DataFrame:
     )
 
     # ---- STEP 4: Format date ----
-    df_clean["date"] = df_clean["date"].dt.strftime("%d-%m-%Y")
+    df_clean["date"] = df_clean["date"].dt.strftime("%Y-%m-%d")
 
     # ---- STEP 5: Select final columns ----
     df_final = df_clean[[
