@@ -14,7 +14,9 @@ temp_df = pd.read_csv(os.path.relpath('..\\cleaned_data\\THA_1950_2100.csv',curr
 elec_df['date'] = pd.to_datetime(elec_df['date'])
 temp_df['date'] = pd.to_datetime(temp_df['date'])
 
-elec_res = elec_df[elec_df['type'] == 'Residential'].sort_values('date')
+sector_types = ["Residential", "Business","Industrial", "Government & Non-Profit", "Agriculture", "Other", "Free of Charge"]
+
+elec_res = elec_df[elec_df['type'] == sector_types[0]].sort_values('date')
 temp_tas = temp_df[temp_df['variable'] == 'tas'][['date', 'value']].rename(columns={'value': 'temperature'})
 
 # Merge consumption and temperature data
@@ -39,7 +41,7 @@ X_train, y_train = X[train_mask], y[train_mask]
 X_test, y_test = X[~train_mask], y[~train_mask]
 
 # Initialize and fit RandomForest
-model = RandomForestRegressor(n_estimators=100, random_state=42)
+model = RandomForestRegressor(n_estimators=100, random_state=42, bootstrap=True)
 model.fit(X_train, y_train)
 
 # Generate predictions for the entire period to visualize trend
@@ -56,9 +58,12 @@ plt.xlabel('Year')
 plt.ylabel('Consumption (kWh)')
 plt.legend()
 plt.grid(True, alpha=0.3)
-plt.show()
+# Need to save first before show (if close == no save)
 plt.tight_layout()
-plt.savefig('residential_trend_prediction.png')
+plt.savefig('randomforest.png')
+plt.show()
+
+
 
 # Print performance
 mape = mean_absolute_percentage_error(y_test, model.predict(X_test))
