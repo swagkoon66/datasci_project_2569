@@ -78,7 +78,7 @@ print(df3_cleaned.head())
 
 def export_clean_df(df: pd.DataFrame, filename: str):
     # Create target folder path relative to current file
-    export_dir = os.path.relpath('..\\cleandata', cur_path)
+    export_dir = os.path.relpath('..\\cleaned_data', cur_path)
 
     # Ensure directory exists
     os.makedirs(export_dir, exist_ok=True)
