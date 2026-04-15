@@ -1,0 +1,4 @@
+11_35 is Regional                           (คือ กฟภ)
+11_36 is Bankok + Samut Pragran + Nonburi   (คือ กฟน)
+11_37 is all provinces                      (คือ รวมทั้งประเทศ)
+THA_xxxx_xxxx is monthly temperature information
