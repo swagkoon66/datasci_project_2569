@@ -16,7 +16,7 @@ filepath_3 = os.path.relpath('..\\raw_data\\dataset_11_37.csv', cur_path)
 
 df1:pd.DataFrame
 df2:pd.DataFrame
-df3:pd.DataFrame
+# df3:pd.DataFrame
 
 def read_raw_csv (filepath:str):
     temp:pd.DataFrame
