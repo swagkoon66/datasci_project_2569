@@ -70,7 +70,7 @@ def json_to_dataframe(filepath: str) -> pd.DataFrame:
 
     # Convert date format
     df["date"] = pd.to_datetime(df["date"])
-    df["date"] = df["date"].dt.strftime("%d-%m-%Y")
+    df["date"] = df["date"].dt.strftime("%Y-%m-%d")
 
     return df
 
