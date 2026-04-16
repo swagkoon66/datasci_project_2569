@@ -3,10 +3,12 @@ import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.metrics import mean_absolute_percentage_error
+import os
 
 # 1. Load and Prepare Data
-elec_df = pd.read_csv('df3_dataset_11_37_clean.csv')
-temp_df = pd.read_csv('THA_1950_2100.csv')
+curr_dir = os.path.dirname(__file__)
+elec_df = pd.read_csv(os.path.relpath('..\\cleaned_data\\df3_dataset_11_37_clean.csv',curr_dir))
+temp_df = pd.read_csv(os.path.relpath('..\\cleaned_data\\THA_1950_2100.csv',curr_dir))
 
 elec_df['date'] = pd.to_datetime(elec_df['date'])
 temp_df['date'] = pd.to_datetime(temp_df['date'])
