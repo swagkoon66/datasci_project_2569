@@ -47,7 +47,7 @@ model.fit(X[train_mask], y[train_mask])
 df['prediction'] = model.predict(X)
 
 # 4. Visualization & Saving Plot
-plt.figure(figsize=(14, 8))
+plt.figure(figsize=(12, 6))
 plt.plot(df['date'], df['electricity_consumption_kWh'], label='Actual Consumption', color='blue', alpha=0.5, linewidth=2)
 plt.plot(df['date'], df['prediction'], label='GBM Prediction', color='green', linestyle='--', alpha=0.8)
 plt.axvline(pd.to_datetime('2024-01-01'), color='red', linestyle=':', label='Forecast Start (2024)')
@@ -61,5 +61,6 @@ plt.tight_layout()
 
 # Save the plot
 plt.savefig('improved_gradient_model.png')
+plt.show()
 
 print(f"Model MAPE (2024-2025): {mean_absolute_percentage_error(y[~train_mask], df.loc[~train_mask, 'prediction']):.2%}")
