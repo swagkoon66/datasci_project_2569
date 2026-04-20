@@ -39,29 +39,27 @@ y = df['electricity_consumption_kWh']
 train_mask = df['date'] < '2024-01-01'
 X_train, y_train = X[train_mask], y[train_mask]
 X_test, y_test = X[~train_mask], y[~train_mask]
-
 # Initialize and fit RandomForest
 model = RandomForestRegressor(n_estimators=100, random_state=42, bootstrap=True)
 model.fit(X_train, y_train)
-# Generate predictions for the entire period to visualize trend
 df['predicted_kWh'] = model.predict(X)
 
-# 4. Visualization
+# 4. Visualization & Saving Plot
 plt.figure(figsize=(12, 6))
 plt.plot(df['date'], df['electricity_consumption_kWh'], label='Actual Consumption', color='blue', alpha=0.6)
 plt.plot(df['date'], df['predicted_kWh'], label='Model Prediction/Trend', color='red', linestyle='--')
 plt.axvline(pd.to_datetime('2024-01-01'), color='black', linestyle=':', label='Forecast Start (2024)')
 
-plt.title('Residential Electricity Consumption Trend & Prediction (2002-2025)')
-plt.xlabel('Year')
-plt.ylabel('Consumption (kWh)')
-plt.legend()
-plt.grid(True, alpha=0.3)
+plt.title('Residential Electricity Consumption Trend & Prediction (2002-2025)', fontsize=16)
+plt.xlabel('Date', fontsize=12)
+plt.ylabel('Consumption (kWh)', fontsize=12)
+plt.legend(loc='upper left')
+plt.grid(True, which='both', linestyle='--', alpha=0.3)
+
 # Need to save first before show (if close == no save)
 plt.tight_layout()
 plt.savefig('randomforest.png')
 plt.show()
-
 # Print performance
 mape = mean_absolute_percentage_error(y_test, model.predict(X_test))
 print(f"Model MAPE (2024-2025): {mape:.2%}")
