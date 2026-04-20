@@ -47,7 +47,7 @@ df['predicted_kWh'] = model.predict(X)
 # 4. Visualization & Saving Plot
 plt.figure(figsize=(12, 6))
 plt.plot(df['date'], df['electricity_consumption_kWh'], label='Actual Consumption', color='blue', alpha=0.6)
-plt.plot(df['date'], df['predicted_kWh'], label='Model Prediction/Trend', color='red', linestyle='--')
+plt.plot(df['date'], df['predicted_kWh'], label='RandomForest Prediction', color='red', linestyle='--')
 plt.axvline(pd.to_datetime('2024-01-01'), color='black', linestyle=':', label='Forecast Start (2024)')
 
 plt.title('Residential Electricity Consumption Trend & Prediction (2002-2025)', fontsize=16)

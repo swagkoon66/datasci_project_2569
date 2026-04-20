@@ -53,7 +53,7 @@ df['predicted_kWh'] = model.predict(X)
 # 4. Visualization & Saving Plot
 plt.figure(figsize=(12, 6))
 plt.plot(df['date'], df['electricity_consumption_kWh'], label='Actual Consumption', color='blue', alpha=0.5, linewidth=2)
-plt.plot(df['date'], df['predicted_kWh'], label='GBM predicted_kWh', color='green', linestyle='--', alpha=0.8)
+plt.plot(df['date'], df['predicted_kWh'], label='GradientBoost Prediction', color='green', linestyle='--', alpha=0.8)
 plt.axvline(pd.to_datetime('2024-01-01'), color='red', linestyle=':', label='Forecast Start (2024)')
 
 plt.title('Improved Residential Electricity Consumption: Gradient Boosting Model', fontsize=16)
