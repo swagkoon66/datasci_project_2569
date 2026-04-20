@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.ensemble import GradientBoostingRegressor
-from sklearn.metrics import mean_absolute_percentage_error
+from sklearn.metrics import mean_absolute_percentage_error, mean_absolute_error
 import os
 
 # 1. Load Datasets
@@ -69,3 +69,11 @@ plt.show()
 # Print performance
 mape = mean_absolute_percentage_error(y_test, model.predict(X_test))
 print(f"Model MAPE (2024-2025): {mape:.2%}")
+# Calculate predictions for the training set
+y_train_pred = model.predict(X_train)
+
+# Calculate the Mean Absolute Error (average deviation) in kWh
+train_mae = mean_absolute_error(y_train, y_train_pred)
+train_gWh = train_mae/(1e06)
+# print(train_mae)
+print(f"Average Training Deviation (MAE): {train_mae:,.2f} kWh {train_gWh:,.2f} GWH")
