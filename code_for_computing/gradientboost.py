@@ -39,17 +39,18 @@ features = ['year', 'month', 'tas', 'tasmax', 'CDD', 'lag_1', 'lag_12', 'rolling
 X = df[features]
 y = df['electricity_consumption_kWh']
 
-model = GradientBoostingRegressor(n_estimators=200, learning_rate=0.05, max_depth=5, random_state=42)
-
 # Train on data before 2024
 train_mask = df['date'] < '2024-01-01'
-model.fit(X[train_mask], y[train_mask])
-df['prediction'] = model.predict(X)
+X_train, y_train = X[train_mask], y[train_mask]
+X_test, y_test = X[~train_mask], y[~train_mask]
+model = GradientBoostingRegressor(n_estimators=200, learning_rate=0.05, max_depth=5, random_state=42)
+model.fit(X_train, y_train)
+df['predicted_kWh'] = model.predict(X)
 
 # 4. Visualization & Saving Plot
 plt.figure(figsize=(12, 6))
 plt.plot(df['date'], df['electricity_consumption_kWh'], label='Actual Consumption', color='blue', alpha=0.5, linewidth=2)
-plt.plot(df['date'], df['prediction'], label='GBM Prediction', color='green', linestyle='--', alpha=0.8)
+plt.plot(df['date'], df['predicted_kWh'], label='GBM predicted_kWh', color='green', linestyle='--', alpha=0.8)
 plt.axvline(pd.to_datetime('2024-01-01'), color='red', linestyle=':', label='Forecast Start (2024)')
 
 plt.title('Improved Residential Electricity Consumption: Gradient Boosting Model', fontsize=16)
@@ -62,5 +63,6 @@ plt.tight_layout()
 # Save the plot
 plt.savefig('improved_gradient_model.png')
 plt.show()
-
-print(f"Model MAPE (2024-2025): {mean_absolute_percentage_error(y[~train_mask], df.loc[~train_mask, 'prediction']):.2%}")
+# Print performance
+mape = mean_absolute_percentage_error(y_test, model.predict(X_test))
+print(f"Model MAPE (2024-2025): {mape:.2%}")

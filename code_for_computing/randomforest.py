@@ -43,7 +43,6 @@ X_test, y_test = X[~train_mask], y[~train_mask]
 # Initialize and fit RandomForest
 model = RandomForestRegressor(n_estimators=100, random_state=42, bootstrap=True)
 model.fit(X_train, y_train)
-
 # Generate predictions for the entire period to visualize trend
 df['predicted_kWh'] = model.predict(X)
 
@@ -62,8 +61,6 @@ plt.grid(True, alpha=0.3)
 plt.tight_layout()
 plt.savefig('randomforest.png')
 plt.show()
-
-
 
 # Print performance
 mape = mean_absolute_percentage_error(y_test, model.predict(X_test))

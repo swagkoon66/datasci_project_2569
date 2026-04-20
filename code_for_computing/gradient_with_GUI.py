@@ -341,7 +341,7 @@ class ElectricityForecastGUI:
     def save_plot(self):
         """Save the current plot"""
         try:
-            filename = f"gradient_boost_plot_{datetime.now().strftime('%Y%m%d_%H%M%S')}.png"
+            filename = f"gradient_boost_GUI_plot_{datetime.now().strftime('%Y%m%d_%H%M%S')}.png"
             self.fig.savefig(filename, dpi=300, bbox_inches='tight')
             self.results_text.insert(tk.END, f"\n✓ Plot saved as {filename}")
         except Exception as e:
